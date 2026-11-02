@@ -1,0 +1,20 @@
+nama = "Rizki Kurniawan"
+nisn = "3088160985”
+kelas = "XIl.11”
+sekolah = "SMA Negeri 1 Kalianda"
+alamat = "Maja"
+anak = "4"
+citacita = "pengusaha"
+hobi = "badminton"
+umur = "17 Tahun"
+
+print("=== DATA SISWA ===")
+print("Nama siswa:", nama)
+print("Nisn:", nisn)
+print("Kelas:", kelas)
+print("Sekolah:", sekolah)
+print("Alamat:", alamat)
+print("Anak:", anak)
+print("Citacita:", citacita)
+print("Hobi:", hobi)
+print("Umur:", umur)
